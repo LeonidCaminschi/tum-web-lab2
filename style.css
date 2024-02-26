@@ -1,1 +1,19 @@
 /* add your CSS here */
+header {
+	background-color: #007BFF;
+        padding: 20px;
+        color: #fff;
+	margin-bottom: 20px;
+}
+section {
+        padding: 20px;
+        text-align: left;
+        max-width: 800px;
+        margin: auto;
+}
+h2 {
+        color: #007BFF;
+}
+p {
+        line-height: 1.6;
+}
